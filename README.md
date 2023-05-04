@@ -17,7 +17,7 @@
   * The user can customize the report according to:
     * The preferred currency
     * The destination
-    * Chekck-in / Check-out dates
+    * Check-in / Check-out dates
     * Number of occupants
   * The reports contain the following:
     * Hotel names
